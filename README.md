@@ -1,2 +1,2 @@
-# test
-test
+# github練習
+* ここはgithubの使い方について練習する自由な場所です。
